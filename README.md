@@ -1,2 +1,2 @@
-# CD-CP-TEST-PLURALSIGHT
-Pluralsight demo video for CD and CP
+# aws-codedeploy-linux
+This is a simple website that can be deployed using AWS Code Services
